@@ -22,3 +22,6 @@ I completed the portrait assignment by:
 I had a couple of problems while coding my sketch. I could not get a gray triangle to show up in my **[index.html](file:///Users/kyahover/Desktop/120-work/hw-4/index.html)** file. It took me forever to figure out why that was happening...it turned out that I spelled triangle wrong. I also read the assignment regarding this weekly readme.md wrong, so I made an issue on the class repo and one of my classmates helped clear it up. :)
 
 I'm still working on the helping other classmates thing...I still feel like I am the one who is normally confused. I hope to get more confident further along in this course!
+
+
+![](gandalf.jpg)

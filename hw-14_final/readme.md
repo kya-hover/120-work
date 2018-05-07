@@ -14,4 +14,4 @@ Overall, I am happy with the final product of my maze. I was going for a simplis
 Compared with my original Gandalf coding project near the beginning of the semester, I'm pretty happy with the coding progress I've made! I'm still very new to coding, but I feel like I have had a good introduction and that I have come a long way!
 
 
-![gandalf maze code product](/images/.gandalf_screenshot.jpg)
+![gandalf maze code product](./images/.gandalf_screenshot.jpg)
